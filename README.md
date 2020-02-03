@@ -1,10 +1,10 @@
-# 新冠肺炎：內地傳媒深度報道選編
+# 關於本項目
 
 編者按：
 
 感謝[一颗蒜头 \(@testmode121\)](https://matters.news/@testmode121?utm_source=ipfs) 將文檔（02-02的版本）轉載至Matters，見 [https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmYpTQzqtBtAJrRT3KD8XBZCK6hPSSD68UWVrkSu8Uho9U/](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmYpTQzqtBtAJrRT3KD8XBZCK6hPSSD68UWVrkSu8Uho9U/)。
 
-牆外文章託管於GitHub， 可於GitBook瀏覽
+牆外文章託管於GitHub， 可於GitBook瀏覽。
 
 此處收集內地各類傳媒發佈（原創或轉載）的有關新型冠狀病毒感染的肺炎\(2019-nCoV\)的深度報道，並將持續更新。若詳盡細緻或角度新穎，且來自較可信賴的傳媒，原則上均予收入，尤其重視對一線、基層（不只是最受關注的，而是包括各地、各群體、各行業）的非虛構寫作和描述性報道，也收入攝影報道。來源包括各主流媒體及網絡自媒體的微信公眾號、網站等。希望這一匯編有助於理解疫情及其影響下的每一個人，並為觀察內地傳媒如何呈現這場疫情做初步的資料收集。
 
