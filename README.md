@@ -24,7 +24,7 @@
 - maintainer: 
 	- will
 - contributor:
-	- 
+
 
 
 ## **冰點週刊（中國青年報旗下的深度報道品牌）**
