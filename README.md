@@ -16,7 +16,11 @@
 - 牆外文章託管於[GitHub](https://github.com/SaveWuhan/NewsCoverageOnWuhan)， 亦可於[GitBook](https://freewuhan2020.gitbook.io/wuhan2020/)瀏覽。
 - 歡迎pull request
 - 考慮存檔目的及空間限制，文章內圖片請上傳imgur等圖床再於markdown文件外連 e.g.
-![Imgur](https://i.imgur.com/HO7wMyH.png)
+
+```markdown
+#### 中国青年报 冰点周刊 01-22
+![](https://i.imgur.com/QXpfNuF.jpg)
+```
 - maintainer: 
 	- will
 - contributor:
