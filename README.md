@@ -4,7 +4,7 @@
 
 感謝[一颗蒜头 \(@testmode121\)](https://matters.news/@testmode121?utm_source=ipfs) 將文檔（02-02的版本）轉載至Matters，見 [https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmYpTQzqtBtAJrRT3KD8XBZCK6hPSSD68UWVrkSu8Uho9U/](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmYpTQzqtBtAJrRT3KD8XBZCK6hPSSD68UWVrkSu8Uho9U/)。
 
-牆外文章託管於GitHub， 可於GitBook瀏覽。
+牆外文章託管於[GitHub](https://github.com/SaveWuhan/NewsCoverageOnWuhan)， 可於[GitBook](https://freewuhan2020.gitbook.io/wuhan2020/)瀏覽。
 
 此處收集內地各類傳媒發佈（原創或轉載）的有關新型冠狀病毒感染的肺炎\(2019-nCoV\)的深度報道，並將持續更新。若詳盡細緻或角度新穎，且來自較可信賴的傳媒，原則上均予收入，尤其重視對一線、基層（不只是最受關注的，而是包括各地、各群體、各行業）的非虛構寫作和描述性報道，也收入攝影報道。來源包括各主流媒體及網絡自媒體的微信公眾號、網站等。希望這一匯編有助於理解疫情及其影響下的每一個人，並為觀察內地傳媒如何呈現這場疫情做初步的資料收集。
 
@@ -14,7 +14,7 @@
 
 感謝眾多媒體工作者和寫作者的努力，也感謝朋友和網友對此文檔的支持和幫助！
 
-#### **冰點週刊（中國青年報旗下的深度報道品牌）**
+## **冰點週刊（中國青年報旗下的深度報道品牌）**
 
 1. 01-22 新型肺炎疫情防控下的武汉生活 [https://mp.weixin.qq.com/s/cg4qHhta8nLx93PDaW1dHQ](https://mp.weixin.qq.com/s/cg4qHhta8nLx93PDaW1dHQ)
 2. 01-23 肺炎疫情中的人們 [https://mp.weixin.qq.com/s/kUY\_Sr3s52pn4jfs8RK60A](https://mp.weixin.qq.com/s/kUY_Sr3s52pn4jfs8RK60A)
@@ -27,7 +27,7 @@
 9. 01-28 钟南山发话前，武汉这位医生向附近学校发出疫情警报 [https://mp.weixin.qq.com/s/IzzCnz4Yr2jEIYZePiu\_ow](https://mp.weixin.qq.com/s/IzzCnz4Yr2jEIYZePiu_ow)
 10. 02-02 卫健委专家组成员王广发出院了，回答了我们8个问题 [https://mp.weixin.qq.com/s/DWcRVz10zps27VIrml\_Khg](https://mp.weixin.qq.com/s/DWcRVz10zps27VIrml_Khg)
 
-#### **三聯生活週刊**
+## **三聯生活週刊**
 
 专题：武汉肺炎系列报道（一） [https://mp.weixin.qq.com/mp/homepage?\_\_biz=MTc5MTU3NTYyMQ==&hid=20&sn=b8f68a8338b85e7ca8605f774ef8a762&scene=21\#wechat\_redirect](https://mp.weixin.qq.com/mp/homepage?__biz=MTc5MTU3NTYyMQ==&hid=20&sn=b8f68a8338b85e7ca8605f774ef8a762&scene=21#wechat_redirect)
 
@@ -52,7 +52,7 @@
 19. 02-01 “封城”十天 \| 摄影镜头下的武汉 [https://mp.weixin.qq.com/s/LTLq3ODjB0Rc86x8-ds3ig](https://mp.weixin.qq.com/s/LTLq3ODjB0Rc86x8-ds3ig)
 20. 02-02 父亲被隔离6天后，17岁脑瘫少年的死亡 [https://mp.weixin.qq.com/s/U\_cBuM7CtPJKWAJFM10MiA](https://mp.weixin.qq.com/s/U_cBuM7CtPJKWAJFM10MiA)，又 [https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmNteibEtgZ17CD6FjBcqoCLiJQJYwcNUK48CwXpi4m6Wf](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmNteibEtgZ17CD6FjBcqoCLiJQJYwcNUK48CwXpi4m6Wf)（轉載）
 
-#### **人物**
+## **人物**
 
 1. 01-24 试剂盒供不应求，武汉新型冠状病毒肺炎确诊之难 [https://mp.weixin.qq.com/s/Jazc0sbrp8ozVScWm3ksfQ](https://mp.weixin.qq.com/s/Jazc0sbrp8ozVScWm3ksfQ)，又 [https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmWrqokLf4ESuGbr27NJs68WyWBwsDRLBpTZx4Kd5M7maQ/](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmWrqokLf4ESuGbr27NJs68WyWBwsDRLBpTZx4Kd5M7maQ/)（转载）
 2. 01-25 除夕夜，他们在武汉 [https://mp.weixin.qq.com/s/ibJV7JcZ3S\_O5zIGbIxxWw](https://mp.weixin.qq.com/s/ibJV7JcZ3S_O5zIGbIxxWw)，又 [https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmRzwjxBbNtNenn236Hb6RKz2Tki9iW6bA75oqgMsiXaJz](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmRzwjxBbNtNenn236Hb6RKz2Tki9iW6bA75oqgMsiXaJz)（转载）
@@ -69,7 +69,7 @@
 13. 02-01 外卖订单里的武汉：穿越隔离的爱情、亲情和勇气 [https://mp.weixin.qq.com/s/usyes\_zthtlMG1SxVVHAhQ](https://mp.weixin.qq.com/s/usyes_zthtlMG1SxVVHAhQ)
 14. 02-02 ​我在金银潭重症监护室 [https://mp.weixin.qq.com/s/yvdG6Svo6m71118C3ASpvQ](https://mp.weixin.qq.com/s/yvdG6Svo6m71118C3ASpvQ)
 
-#### 在人間living（鳳凰網在人間工作室微信公眾號）
+## 在人間living（鳳凰網在人間工作室微信公眾號）
 
 1. 01-26 武汉的除夕夜，我一个人在家自行观察 [https://mp.weixin.qq.com/s/U4IrYQcPc6G-ce9X5eRE\_g](https://mp.weixin.qq.com/s/U4IrYQcPc6G-ce9X5eRE_g)
 2. 01-27 父亲双肺感染严重，然而一床难求 [https://mp.weixin.qq.com/s/\_jOl6mDa-BzCknUwGLaj3Q](https://mp.weixin.qq.com/s/_jOl6mDa-BzCknUwGLaj3Q)，又 [https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmWmusvBNzMMJqhSErRVprxNcBgGLpmmPEAZkezKXboeKP](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmWmusvBNzMMJqhSErRVprxNcBgGLpmmPEAZkezKXboeKP)（轉載）
@@ -80,7 +80,7 @@
 7. 01-31 一辆载着15万副医用手套的车向武汉开去 [https://mp.weixin.qq.com/s/qCY1T3MV0\_hTvlGxQBlQa](https://mp.weixin.qq.com/s/qCY1T3MV0_hTvlGxQBlQaQ)
 8. 02-02 疫情中一夜长大的少年 [https://mp.weixin.qq.com/s/9Li-0f3IjRsWVr6rwcT37A](https://mp.weixin.qq.com/s/9Li-0f3IjRsWVr6rwcT37A)
 
-#### GQ報道
+## GQ報道
 
 1. 01-27 10000个临时发往武汉的口罩 [https://mp.weixin.qq.com/s/p-uPky\_zB6XKcAetthqkKg](https://mp.weixin.qq.com/s/p-uPky_zB6XKcAetthqkKg)
 2. 01-28 我家离华南海鲜市场很近：返乡、封城、过年，一位武汉大学生的过去一周 [https://mp.weixin.qq.com/s/n7dXGHh-79d6VEzDhhOUbQ](https://mp.weixin.qq.com/s/n7dXGHh-79d6VEzDhhOUbQ)
@@ -92,7 +92,7 @@
 8. 02-01 武汉封城后的宠物营救计划：人类犯错的后果，不该由它们承担 [https://mp.weixin.qq.com/s/Z8b1ULpnAQwIOzyZmA7xHA](https://mp.weixin.qq.com/s/Z8b1ULpnAQwIOzyZmA7xHA)
 9. 02-01 鸡在瘟疫蔓延时 [https://mp.weixin.qq.com/s/yJ2ygq2NrMAhTFWYZsC3QA](https://mp.weixin.qq.com/s/yJ2ygq2NrMAhTFWYZsC3QA)
 
-#### [谷雨實驗室-騰訊新聞](https://gy.qq.com/)
+## [谷雨實驗室-騰訊新聞](https://gy.qq.com/)
 
 1. 01-25 无法离开武汉的年关24小时 [https://mp.weixin.qq.com/s/XJMu31nimG-7gGJtz6klzg](https://mp.weixin.qq.com/s/XJMu31nimG-7gGJtz6klzg)
 2. 01-27 无法团年的武汉家庭：这时候你才发现亲情之重 [https://mp.weixin.qq.com/s/31lhYygEyk5skCF-JteFJQ](https://mp.weixin.qq.com/s/31lhYygEyk5skCF-JteFJQ)
@@ -105,7 +105,7 @@
 9. 01-31 流落海外武汉人：我只想回家 [https://mp.weixin.qq.com/s/BhP72wZBS9DqLX8IgTgr\_A](https://mp.weixin.qq.com/s/BhP72wZBS9DqLX8IgTgr_A)
 10. 02-01 突然被延期开学击中的父母 [https://mp.weixin.qq.com/s/KjkYqFEM\_De8q3LddOZo5A](https://mp.weixin.qq.com/s/KjkYqFEM_De8q3LddOZo5A)
 
-#### **剝洋蔥people（新京報深度報道部微信公眾號）**
+## **剝洋蔥people（新京報深度報道部微信公眾號）**
 
 1. 01-20 直击肺炎疫情下的武汉、北京、香港 [https://mp.weixin.qq.com/s/g0yMaWd6JbkSp2t79wjh7A](https://mp.weixin.qq.com/s/g0yMaWd6JbkSp2t79wjh7A)
 2. 01-21 聚焦武汉肺炎疫情：“大众畜牧野味”确实存在，市场休市后才闭店 [https://mp.weixin.qq.com/s/6CPkhUWzM6f2NxP8rMWNUQ](https://mp.weixin.qq.com/s/6CPkhUWzM6f2NxP8rMWNUQ)
@@ -120,7 +120,7 @@
 11. 02-01 武汉定点医院一床难求，患者居家用衣柜隔离 [https://mp.weixin.qq.com/s/p45GBxC\_Nm1lcZJg1hf6ZA](https://mp.weixin.qq.com/s/p45GBxC_Nm1lcZJg1hf6ZA)
 12. 02-02 肺炎时期的“生门”故事 [https://mp.weixin.qq.com/s/qhZoz\_\_WW69klJ200JUMdw](https://mp.weixin.qq.com/s/qhZoz__WW69klJ200JUMdw)
 
-#### [新京報](http://www.bjnews.com.cn/)
+## [新京報](http://www.bjnews.com.cn/)
 
 1. 01-22 失控的野味 [https://mp.weixin.qq.com/s/3Cxd9SKzxIxZIOKp6uz-VQ](https://mp.weixin.qq.com/s/3Cxd9SKzxIxZIOKp6uz-VQ)
 2. 01-22 暴风眼中的武汉 [https://mp.weixin.qq.com/s/W0sY-XHFBcp382BKWSi90w](https://mp.weixin.qq.com/s/W0sY-XHFBcp382BKWSi90w)
@@ -141,7 +141,7 @@
 17. 02-02 湖北一亿只亟需饲料的蛋鸡 [https://mp.weixin.qq.com/s/SM0QoFefHyIiCjp8FsnDGw](https://mp.weixin.qq.com/s/SM0QoFefHyIiCjp8FsnDGw)
 18. 02-02 疫情之下，守护武汉的面孔 [https://mp.weixin.qq.com/s/eY6JN2OlexP9LyU7JxwTlg](https://mp.weixin.qq.com/s/eY6JN2OlexP9LyU7JxwTlg)
 
-#### **北青深一度（北京青年報深度報道部微信公眾號）**
+## **北青深一度（北京青年報深度報道部微信公眾號）**
 
 1. 01-21 一个武汉肺炎康复患者的样本观察：我与新型冠状病毒搏斗的22天 [https://mp.weixin.qq.com/s/Ps5lUon8LMCxLrPGwqKjMg](https://mp.weixin.qq.com/s/Ps5lUon8LMCxLrPGwqKjMg)
 2. 01-23 抗击新型冠状病毒的基层医院：发热门诊排长队，防疫物资现短缺，送检需有疫区接触史 [https://mp.weixin.qq.com/s/f-mER12NzQPQBjVlXgpUYA](https://mp.weixin.qq.com/s/f-mER12NzQPQBjVlXgpUYA)
@@ -154,7 +154,7 @@
 9. 02-01 新冠病毒出现多例“两阴后变阳”病例，专家称临床不应轻易排除 [https://mp.weixin.qq.com/s/ROO6IRPYUHHnJzHnCR88sQ](https://mp.weixin.qq.com/s/ROO6IRPYUHHnJzHnCR88sQ)
 10. 02-02 一个武汉红十字会志愿者的自述 [https://mp.weixin.qq.com/s/f-5AC4hP2M06Va48CsLRxQ](https://mp.weixin.qq.com/s/f-5AC4hP2M06Va48CsLRxQ)
 
-#### [**南方週末/南方人物週刊**](http://www.infzm.com/)
+## [**南方週末/南方人物週刊**](http://www.infzm.com/)
 
 專題：战“疫”\| 抗击新冠肺炎全纪录 [http://www.infzm.com/contents/174984](http://www.infzm.com/contents/174984)
 
@@ -218,7 +218,7 @@ ARCHIEVED ABOVE LINK 1426 AVAILABLE
 2. 02-02“有强烈无力感，在为定点医院床位不够买单” ——武汉社区医院主任自述 [https://mp.weixin.qq.com/s/LjZu249MLiz\_Fa9dBUFXqA](https://mp.weixin.qq.com/s/LjZu249MLiz_Fa9dBUFXqA)
 3. 02-02 陌路他乡——返京租客的四天三夜 [https://mp.weixin.qq.com/s/E4wPvcpBl58V6SabUf64Sw](https://mp.weixin.qq.com/s/E4wPvcpBl58V6SabUf64Sw)
 
-#### 南都週刊
+## 南都週刊
 
 1. 01-25 疫情风暴眼中的武汉居民生活 [https://mp.weixin.qq.com/s/kwBENUa9-Y8YRU5AfUEp2Q](https://mp.weixin.qq.com/s/kwBENUa9-Y8YRU5AfUEp2Q)
 2. 01-25 医护人员住宿需求大，逾235家武汉酒店自发免费接待医护工作者 [https://mp.weixin.qq.com/s/1VnblN\_kMRVXqq-duvdqpg](https://mp.weixin.qq.com/s/1VnblN_kMRVXqq-duvdqpg)
@@ -233,7 +233,7 @@ ARCHIEVED ABOVE LINK 1426 AVAILABLE
 11. 02-01 “无法报销邮费”物资被湖北麻城红十字会拒收 市民政局：直接经手人撤职查办 [https://mp.weixin.qq.com/s/gr6WT\_MuxsGnOuUAcN9vuA](https://mp.weixin.qq.com/s/gr6WT_MuxsGnOuUAcN9vuA)
 12. 02-02 湖北危机之下，饭圈女孩的驰援 [https://mp.weixin.qq.com/s/GOFEixDCXSurJgWfYDnwvA](https://mp.weixin.qq.com/s/GOFEixDCXSurJgWfYDnwvA)
 
-#### [**財新網**](http://www.caixin.com/)
+## [**財新網**](http://www.caixin.com/)
 
 專題：新冠肺炎防疫全纪录 [http://m.app.caixin.com/m\_topic\_detail/1473.html](http://m.app.caixin.com/m_topic_detail/1473.html)
 
@@ -285,7 +285,7 @@ ARCHIEVED ABOVE LINK 1426 AVAILABLE
 12. 01-31 独家\|中国疾控中心高福、冯子健回应论文风波 [http://www.caixin.com/2020-01-31/101509841.html](http://www.caixin.com/2020-01-31/101509841.html)
 13. 02-01 交通管制重创湖北家禽养殖业 鸡蛋积压鸡苗难消化 [http://www.caixin.com/2020-02-01/101510167.html](http://www.caixin.com/2020-02-01/101510167.html)
 
-#### **財經雜誌**
+## **財經雜誌**
 
 专题：“武汉肺炎”疫情系列报道 [https://mp.weixin.qq.com/mp/homepage?\_\_biz=MjM5NDU5NTM4MQ==&hid=29&sn=21c0f34c737748fe3b2c372bb40ae622&scene=21\#wechat\_redirect](https://mp.weixin.qq.com/mp/homepage?__biz=MjM5NDU5NTM4MQ==&hid=29&sn=21c0f34c737748fe3b2c372bb40ae622&scene=21#wechat_redirect)
 
@@ -313,13 +313,13 @@ ARCHIEVED ABOVE LINK 1426 AVAILABLE
 22. 02-02 中小企业现金流告急，停工裁员待扶持 [https://mp.weixin.qq.com/s/FAm349BZgiZ6XDS5K6Rd3g](https://mp.weixin.qq.com/s/FAm349BZgiZ6XDS5K6Rd3g)
 23. 02-02 双黄连口服液能治新冠肺炎？一场闹剧 [https://mp.weixin.qq.com/s/rGMgkgyFifOqKvCd7pkqFA](https://mp.weixin.qq.com/s/rGMgkgyFifOqKvCd7pkqFA)
 
-#### 大象公會
+## 大象公會
 
 1. 01-27 中国的传染病是怎样防控的 [https://mp.weixin.qq.com/s/J50k5jLWoOufSW27hjyd0g](https://mp.weixin.qq.com/s/J50k5jLWoOufSW27hjyd0g)
 2. 01-30 不要让华农兄弟成为查禁野味的受害者 [https://mp.weixin.qq.com/s/RKk1JopiBgiBlrhOdVr-4A](https://mp.weixin.qq.com/s/RKk1JopiBgiBlrhOdVr-4A)
 3. 02-01 中西医是怎么结合起来的 [https://mp.weixin.qq.com/s/QTKiV\_jFc75JuTz3y0AIuA](https://mp.weixin.qq.com/s/QTKiV_jFc75JuTz3y0AIuA)
 
-#### 其他傳媒、自媒體或個人公眾號
+## 其他傳媒、自媒體或個人公眾號
 
 1. 01-26 五个武汉人的封城日记（故事FM） [https://mp.weixin.qq.com/s/0CfHc9OqmP9rNGIaznnoHQ](https://mp.weixin.qq.com/s/0CfHc9OqmP9rNGIaznnoHQ)
 2. 01-27 武汉ICU主任万字口述：我们收治了一个“毒王”（瀟湘晨報） [https://w.url.cn/s/A0E4El3](https://w.url.cn/s/A0E4El3)，又 [https://mp.weixin.qq.com/s/EpsL5My5Sv8yOthYAPd5-g](https://mp.weixin.qq.com/s/EpsL5My5Sv8yOthYAPd5-g)（修改版），[https://user.guancha.cn/main/content?id=232688](https://user.guancha.cn/main/content?id=232688)（轉載），[https://www.douban.com/group/topic/163974834/?fbclid=IwAR1Q-uAQCMaTEcrp0PU4Jf4zX3relzGwq0kuBV1Fh3M8wjqxvnnP\_eOSABU](https://www.douban.com/group/topic/163974834/?fbclid=IwAR1Q-uAQCMaTEcrp0PU4Jf4zX3relzGwq0kuBV1Fh3M8wjqxvnnP_eOSABU)（截圖）
@@ -331,7 +331,7 @@ ARCHIEVED ABOVE LINK 1426 AVAILABLE
 8. 01-31 湖北17岁脑瘫儿死亡前一天，父亲多次拨打120和110求助无果（大米和小米） [https://mp.weixin.qq.com/s/\_kgcFgzKW\_tPNuzXlLVllg](https://mp.weixin.qq.com/s/_kgcFgzKW_tPNuzXlLVllg)
 9. 01-31 外国人眼里的疫情中国：唱国歌，喝蝙蝠汤和只相信政府的中国人（女孩別怕） [https://mp.weixin.qq.com/s/qF9UYXx0q-tDTJ9AJDaaaw](https://mp.weixin.qq.com/s/qF9UYXx0q-tDTJ9AJDaaaw)
 
-#### 附：武汉新型冠状病毒肺炎大事记（財新網）
+## 附：武汉新型冠状病毒肺炎大事记（財新網）
 
 1. 武汉新型冠状病毒肺炎大事记（2019年12月—2020年1月20日） [http://china.caixin.com/2020-01-20/101506244.html?fbclid=IwAR1XYZw8x5ZOMGVOFodpMNrUZQYiUvDQ3Fu0uJzlD4IzayIPAPyBYOsgVBs](http://china.caixin.com/2020-01-20/101506244.html?fbclid=IwAR1XYZw8x5ZOMGVOFodpMNrUZQYiUvDQ3Fu0uJzlD4IzayIPAPyBYOsgVBs)
 2. 武汉新型冠状病毒肺炎大事记（2020年1月21日—今） [http://china.caixin.com/2020-01-21/101506973.html?fbclid=IwAR1ysTLoSzmtviW23PiUfYylYhc4GSYWC8yvyN8YacQdW\_vMdvuJzoRiUVk](http://china.caixin.com/2020-01-21/101506973.html?fbclid=IwAR1ysTLoSzmtviW23PiUfYylYhc4GSYWC8yvyN8YacQdW_vMdvuJzoRiUVk)
