@@ -12,24 +12,56 @@
 
 感謝眾多媒體工作者和寫作者的努力，也感謝朋友和網友對此文檔的支持和幫助！
 
-## 关于貢獻GitHub项目
-- 牆外文章託管於[GitHub](https://github.com/SaveWuhan/NewsCoverageOnWuhan)， 亦可於[GitBook](https://freewuhan2020.gitbook.io/wuhan2020/)瀏覽。
-- 歡迎pull request
-- 考慮存檔目的及空間限制，文章內圖片請上傳imgur等圖床再於markdown文件外連 e.g.
+## 關於GitHub項目
+- 文章及列表託管於[GitHub](https://github.com/SaveWuhan/NewsCoverageOnWuhan)， 亦可於[GitBook](https://freewuhan2020.gitbook.io/wuhan2020/)瀏覽。
+- 建立本地版本：
 
-```markdown
-#### 中国青年报 冰点周刊 01-22
-![](https://i.imgur.com/QXpfNuF.jpg)
+```bash
+$ git clone https://github.com/SaveWuhan/NewsCoverageOnWuhan.git
+$ cd NewsCoverageOnWuhan
+$ npm install gitbook-cli -g
+$ gitbook serve
 ```
-- maintainer: 
-	- will
-- contributor:
+- 歡迎pull request  
 
+### 如何貢獻
+#### 添加你認為值得加入的文章
+1. 更新本`README`文件，依序依照下列 `mm-dd 標題 連結`格式放入對應媒體標題下
+2. 提交pull request
 
+#### 添加文章到電子書
+
+2. 選舉下列文章中尚未加入電子書之連結（未標記✅ 或 ⚠️者）
+3. 轉換文章內容成為`markdown`即`.md`格式， 您可能需要手動編輯。如果您不熟悉`markdown`, 請閱讀
+	- [StackOverflow -What file uses .md extension and how should I edit them?](https://stackoverflow.com/questions/5922882/what-file-uses-md-extension-and-how-should-i-edit-them)
+	- [簡書 - Markdown介绍及使用教程](https://www.jianshu.com/p/7771794c88a1)
+4. 考慮存檔目的及空間限制，文章內圖片請上傳imgur等圖床再於markdown文件外連。e.g.
+
+	```markdown
+	#### 中国青年报 冰点周刊 01-22
+	![image-title](https://i.imgur.com/QXpfNuF.jpg)
+	```
+4. 加入該`.md`文件至相應資料夾
+5. 於`./SUMMARY.md`文件更新電子書目錄
+6. 提交pull request
+
+### TODO
+- scraping scripts
+
+### maintainers: 
+- will
+
+### contributors:
+-  
+
+---
+
+***文章列表***  
+✅ 已加入電子書 ⚠️ 原連結已失效
 
 ## **冰點週刊（中國青年報旗下的深度報道品牌）**
 
-1. 01-22 新型肺炎疫情防控下的武汉生活 [https://mp.weixin.qq.com/s/cg4qHhta8nLx93PDaW1dHQ](https://mp.weixin.qq.com/s/cg4qHhta8nLx93PDaW1dHQ)
+1. ✅ 01-22 新型肺炎疫情防控下的武汉生活 [https://mp.weixin.qq.com/s/cg4qHhta8nLx93PDaW1dHQ](https://mp.weixin.qq.com/s/cg4qHhta8nLx93PDaW1dHQ)
 2. 01-23 肺炎疫情中的人們 [https://mp.weixin.qq.com/s/kUY\_Sr3s52pn4jfs8RK60A](https://mp.weixin.qq.com/s/kUY_Sr3s52pn4jfs8RK60A)
 3. 01-23 防疫升級後的武漢 [https://mp.weixin.qq.com/s/-RmxrJ8VeqzgiBMAGmzYPA](https://mp.weixin.qq.com/s/-RmxrJ8VeqzgiBMAGmzYPA)
 4. 01-24 全國人在吃年夜飯 他們在建「武漢小湯山」 [https://mp.weixin.qq.com/s/BsKYzzw0CH9e-jQTa76iGQ](https://mp.weixin.qq.com/s/BsKYzzw0CH9e-jQTa76iGQ)
@@ -42,9 +74,9 @@
 
 ## **三聯生活週刊**
 
-专题：武汉肺炎系列报道（一） [https://mp.weixin.qq.com/mp/homepage?\_\_biz=MTc5MTU3NTYyMQ==&hid=20&sn=b8f68a8338b85e7ca8605f774ef8a762&scene=21\#wechat\_redirect](https://mp.weixin.qq.com/mp/homepage?__biz=MTc5MTU3NTYyMQ==&hid=20&sn=b8f68a8338b85e7ca8605f774ef8a762&scene=21#wechat_redirect)
+⚠️ 专题：武汉肺炎系列报道（一） [https://mp.weixin.qq.com/mp/homepage?\_\_biz=MTc5MTU3NTYyMQ==&hid=20&sn=b8f68a8338b85e7ca8605f774ef8a762&scene=21\#wechat\_redirect](https://mp.weixin.qq.com/mp/homepage?__biz=MTc5MTU3NTYyMQ==&hid=20&sn=b8f68a8338b85e7ca8605f774ef8a762&scene=21#wechat_redirect)
 
-1. 01-22 武汉新型肺炎：为何直到今天才引起更大注意？ [https://mp.weixin.qq.com/s/xuf8nn1OPOY51cyZMduQ-Q](https://mp.weixin.qq.com/s/xuf8nn1OPOY51cyZMduQ-Q)，又 [https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmbAX2m6KgFoAHLNxb1PEV8mvnkuga5RAiU6EKonL6xAtR/](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmbAX2m6KgFoAHLNxb1PEV8mvnkuga5RAiU6EKonL6xAtR/)（轉載）
+1. ✅ 01-22 武汉新型肺炎：为何直到今天才引起更大注意？ [https://mp.weixin.qq.com/s/xuf8nn1OPOY51cyZMduQ-Q](https://mp.weixin.qq.com/s/xuf8nn1OPOY51cyZMduQ-Q)，又 [https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmbAX2m6KgFoAHLNxb1PEV8mvnkuga5RAiU6EKonL6xAtR/](https://d26g9c7mfuzstv.cloudfront.net/ipfs/QmbAX2m6KgFoAHLNxb1PEV8mvnkuga5RAiU6EKonL6xAtR/)（轉載）
 2. 01-23 武汉肺炎一线医生口述：大爆发期或将到来 [https://w.url.cn/s/AvzMAsM](https://w.url.cn/s/AvzMAsM)（原文已禁止分享），又 [https://new.qq.com/omn/HEE20200/HEE2020012400700600.html](https://new.qq.com/omn/HEE20200/HEE2020012400700600.html)（轉載）
 3. 01-23 武汉肺炎重症患者：一床难求 [https://w.url.cn/s/AAE3ZPF](https://w.url.cn/s/AAE3ZPF)（原文已禁止分享），又 [http://news.sina.com.cn/c/2020-01-23/doc-iihnzahk6002239.shtml](http://news.sina.com.cn/c/2020-01-23/doc-iihnzahk6002239.shtml)，[https://ipfs.io/ipfs/QmQLbvZ4BJ2maLUJ7Ffr9nB1CUyDbUNrXmyAk5DMPRq4XE/](https://ipfs.io/ipfs/QmQLbvZ4BJ2maLUJ7Ffr9nB1CUyDbUNrXmyAk5DMPRq4XE/)（轉載）
 4. 01-24 “灯下黑”：武汉周边的疫情危机 [https://mp.weixin.qq.com/s/PpEqQsyF2HklmlOvHDLw4A](https://mp.weixin.qq.com/s/PpEqQsyF2HklmlOvHDLw4A)
