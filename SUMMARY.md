@@ -8,5 +8,5 @@
 
 ## 三聯生活周刊
 
-* [现场 \| 武汉新型肺炎：为何直到今天才引起更大注意？](san-lian-sheng-huo-zhou-kan/untitled.md)
+* [现场 \| 武汉新型肺炎：为何直到今天才引起更大注意？](san-lian-sheng-huo-zhou-kan/武汉新型肺炎：为何直到今天才引起更大注意？.md)
 
