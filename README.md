@@ -26,9 +26,8 @@ $ gitbook serve
 - `md`文檔內圖片煩請使用`imgur`或其他圖床
 
 ### ROADMAP
-- [] scraping scripts
-	- Finished. pending release
-- [] telebot for `markdown` parsing
+- [ ] scraping scripts - Finished. Pending release.
+- [ ] telebot for `markdown` parsing
 
 ### maintainers: 
 - will
