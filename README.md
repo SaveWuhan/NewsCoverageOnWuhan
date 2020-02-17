@@ -26,8 +26,8 @@ $ gitbook serve
 - `md`文檔內圖片煩請使用`imgur`或其他圖床
 
 ### ROADMAP
-- [ ] scraping scripts - Finished. Pending release.
-- [ ] telebot for `markdown` parsing
+- [X] scraping scripts can be found [here](https://github.com/SaveWuhan/scraper)
+- [ ] Telegram-bot/slack-bot for crowdsourcing Markdowns
 
 ### maintainers: 
 - will
